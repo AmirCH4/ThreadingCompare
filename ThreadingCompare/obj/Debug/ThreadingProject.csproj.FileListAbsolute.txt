@@ -1,0 +1,10 @@
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\bin\Debug\ThreadingProject.exe.config
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\bin\Debug\ThreadingProject.exe
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\bin\Debug\ThreadingProject.pdb
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.csprojAssemblyReference.cache
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.MainForm.resources
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.Properties.Resources.resources
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.csproj.GenerateResource.cache
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.csproj.CoreCompileInputs.cache
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.exe
+F:\university\Term 5\سیستم عامل\Project\ThreadingProject\obj\Debug\ThreadingProject.pdb
